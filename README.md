@@ -1,6 +1,6 @@
 Up & Going with Nuxt.js, Bulma and Sass
 
-[](./assets/img/img.png)
+![Alt text](/assets/img/img.png?raw=true "Optional Title")
 
 You can fork this repo and workaround with it.
 
