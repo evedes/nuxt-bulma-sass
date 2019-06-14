@@ -1,0 +1,14 @@
+@import '~bulma/sass/utilities/_all.sass';
+
+$edo: pink;
+$primary: blue;
+
+.edo-theme {
+  background-color: $primary;
+
+  .hello-nuxt {
+      color: $edo;
+  }
+}
+
+@import '~bulma';
